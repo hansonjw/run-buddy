@@ -8,7 +8,9 @@ CSS
 HTML
 
 # website:
-TBD
+https://hansonjw.github.io/run-buddy/
 
 # contribution
 Made by Justin Hanson
+
+### ©️2019 Run Buddy, Inc
