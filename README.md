@@ -14,3 +14,6 @@ https://hansonjw.github.io/run-buddy/
 Made by Justin Hanson
 
 ### ©️2019 Run Buddy, Inc
+
+This text was entered in my local repo...and should differen from what I'm about to pull
+from the remote repo
