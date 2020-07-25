@@ -15,5 +15,6 @@ Made by Justin Hanson
 
 ### ©️2019 Run Buddy, Inc
 
-This text was entered in my local repo...and should differen from what I'm about to pull
-from the remote repo
+
+This is a test to see if the change creates a merge conflict on my local repo
+This text was entered on the master in Github
