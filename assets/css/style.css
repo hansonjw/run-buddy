@@ -415,23 +415,35 @@ section {
   }
   
   .service-grid-container {
+    max-width: 940px;
+    margin: 0 auto;
     display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 100px);
+    grid-gap: 10px;
   }
 
   .service-grid-item {
-    width: 200px;
-    height: 50px;
     background-color: orange;
     border: solid;
+    padding: 1em;
     color: black;
   }
 
+.service-grid-container {
+
+}
+
+.service-grid-item {
+
+}
+
 
 
   /* ------------------- */
   /* ------------------- */
 
-  
+
   /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
   @media screen and (max-width: 575px) {
     .hero-form button {
